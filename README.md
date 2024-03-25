@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Nextflow/nf-core, Galaxy, English.
 
-💞️ I’m looking for a job that can be remote or based in Australia or Beijing, China.
+💞️ I’m looking for a job that can be based in Australia or remote.
 
 📫 How to reach me 0820LL@163.com
 
